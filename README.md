@@ -2,6 +2,7 @@
 
 This repository contains a PyTorch-based Countermeasure (CM) system designed to protect Automatic Speaker Verification (ASV) systems from voice spoofing attacks.
 So far for this project I've completed the **CNN** model implementation for the Logical Access dataset from the ASVspoof 2019 challenge. (04/09/2026)
+The CNN model was trained using the L4 GPU on Google Colab.
 
 ## Performance Overview
 | Metric | Official LFCC-GMM Baseline | **My LFCC CNN Implementation** |
